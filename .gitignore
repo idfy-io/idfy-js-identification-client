@@ -1,0 +1,7 @@
+node_modules
+.vscode
+lib
+syncano/.dist
+syncano/.build
+syncano/.bundles
+syncano/**/scripts/.bundles
